@@ -17,3 +17,4 @@ services:
         MYSQL_DATABASE: fiapdb
         MYSQL_USER: fiap
         MYSQL_PASSWORD: 123456
+        TZ: Amreica/Bahia
